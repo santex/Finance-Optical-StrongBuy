@@ -1,6 +1,0 @@
-Revision history for Perl extension Finance::Optical::StrongBuy.
-
-0.01  Thu Jan  5 20:07:00 2012
-	- original version; created by h2xs 1.23 with options
-		-AX Finance::Optical::StrongBuy
-
